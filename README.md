@@ -1,9 +1,7 @@
 # Bowe-The-Text-Based-Adventure
 Bowe, before we knew his name. WIP.
 
-A demo. So far, only Act One, Scene One is playable.
-
-To run this game, download the ZIP file, extract it into a folder and click on the file labeled "RUN". Currently only compatible with Windows.
+A demo. So far, only Act One, Scene One is playable. Currently only compatible with Windows.
 
 Troubleshooting: 
 Extract the zip file into a folder with something like WinRAR: http://www.win-rar.com/start.html?&L=0. 
