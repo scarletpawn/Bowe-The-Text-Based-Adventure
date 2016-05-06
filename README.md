@@ -5,4 +5,4 @@ A demo. So far, only Act One, Scene One is complete.
 
 To run this game, download the ZIP file, extract into a folder and click on the file labeled "RUN". Currently only compatible with Windows.
 
-If not already downloaded, it is necessary to have Java to run this demo: http://java.com/en/download/
+If not already downloaded, it is necessary to have JRE to run this demo: http://java.com/en/download/
